@@ -64,11 +64,7 @@ const Home = (props) => {
               <button className="home-cta-btn1 button Anchor">ABOUT ME</button>
             </div>
           </div>
-          <img
-            alt="image"
-            src="https://play.teleporthq.io/static/svg/default-img.svg"
-            className="home-image"
-          />
+          <img alt="image" src="/self-image-1500w.jpg" className="home-image" />
         </div>
       </div>
       <div className="home-features">
