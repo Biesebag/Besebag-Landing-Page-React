@@ -68,7 +68,7 @@ const Home = (props) => {
       </div>
       <div className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text04 Section-Heading">Deliverables</h2>
+          <h2 className="home-text04 Section-Heading">Personal Interests</h2>
           <span className="home-text05 Section-Text">
             Lorme ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
             odio. Praesent libero.
@@ -129,7 +129,7 @@ const Home = (props) => {
         <div className="home-max-content-width-container">
           <div className="home-heading-container1">
             <h1 className="Section-Heading home-text09">
-              Professional experience
+              Skills and Experience
             </h1>
           </div>
           <div className="home-content-container3">
@@ -203,7 +203,7 @@ const Home = (props) => {
       <div className="home-section-separator2"></div>
       <div className="home-clients">
         <div className="home-heading-container2">
-          <h1 className="home-text19 Section-Heading">Clients</h1>
+          <h1 className="home-text19 Section-Heading"> Lab Reports</h1>
           <span className="home-text20 Section-Text">
             Here we will put your clients&apos; or partners&apos; logos
           </span>
