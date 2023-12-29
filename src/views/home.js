@@ -26,7 +26,7 @@ const Home = (props) => {
             </svg>
           </div>
           <div data-role="MobileMenu" className="home-mobile-menu">
-            <div className="home-container01">
+            <div className="home-container1">
               <span className="Card-Heading home-heading1">Logo</span>
               <div data-role="CloseMobileMenu" className="home-close-menu">
                 <svg viewBox="0 0 1024 1024" className="home-icon02">
@@ -45,21 +45,20 @@ const Home = (props) => {
       </div>
       <div className="home-section-separator"></div>
       <div className="home-section-separator1"></div>
-      <div className="home-container02">
+      <div className="home-container2">
         <div className="home-hero">
           <div className="home-hero-text-container">
-            <h1 className="home-heading2">Test Title</h1>
+            <h1 className="home-heading2">About Me</h1>
             <span className="home-text Section-Text">
-              <span>
-                c. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed
-                augue semper porta. Mauris massa. Vestibulum lacinia arcu eget
-                nulla. Class aptent taciti sociosqu ad litora torquent per
-                conubia nostra, per inceptos himenaeos.
+              <span className="home-text01 Section-Text">
+                My name is Brandon Esebag. I am a current Electrical Engineering
+                student at the 
               </span>
+              <span>California State Polytechnic University, Pomona.</span>
             </span>
             <div className="home-cta-btn-container">
               <button className="home-cta-btn Anchor button">
-                <span className="home-text02">MY WORK</span>
+                <span className="home-text03">MY WORK</span>
               </button>
               <button className="home-cta-btn1 button Anchor">ABOUT ME</button>
             </div>
@@ -69,8 +68,8 @@ const Home = (props) => {
       </div>
       <div className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text03 Section-Heading">Deliverables</h2>
-          <span className="home-text04 Section-Text">
+          <h2 className="home-text04 Section-Heading">Deliverables</h2>
+          <span className="home-text05 Section-Text">
             Lorme ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
             odio. Praesent libero.
           </span>
@@ -87,7 +86,7 @@ const Home = (props) => {
             </div>
             <div className="home-content-container">
               <span className="home-heading3 Card-Heading">Diagrams</span>
-              <span className="home-text05 Card-Text">
+              <span className="home-text06 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -102,7 +101,7 @@ const Home = (props) => {
             </div>
             <div className="home-content-container1">
               <span className="home-heading4 Card-Heading">Wireframes</span>
-              <span className="home-text06 Card-Text">
+              <span className="home-text07 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -117,7 +116,7 @@ const Home = (props) => {
             </div>
             <div className="home-content-container2">
               <span className="home-heading5 Card-Heading">Design</span>
-              <span className="home-text07 Card-Text">
+              <span className="home-text08 Card-Text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
                 nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -129,44 +128,44 @@ const Home = (props) => {
       <div className="home-about">
         <div className="home-max-content-width-container">
           <div className="home-heading-container1">
-            <h1 className="Section-Heading home-text08">
+            <h1 className="Section-Heading home-text09">
               Professional experience
             </h1>
           </div>
           <div className="home-content-container3">
             <div className="home-about-1">
-              <div className="home-container03">
+              <div className="home-container3">
                 <svg viewBox="0 0 1024 1024" className="home-icon10">
                   <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
                 </svg>
-                <span className="home-text09 Card-Text">
+                <span className="home-text10 Card-Text">
                   Lorem ipsum dolor sit amet aulla quis sem at nibh elementum
                   imperdiet.
                 </span>
               </div>
-              <div className="home-container04">
+              <div className="home-container4">
                 <svg viewBox="0 0 1024 1024" className="home-icon12">
-                  <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
-                </svg>
-                <span className="home-text10 Card-Text">
-                  Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
-                </span>
-              </div>
-              <div className="home-container05">
-                <svg viewBox="0 0 1024 1024" className="home-icon14">
                   <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
                 </svg>
                 <span className="home-text11 Card-Text">
                   Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
                 </span>
               </div>
-            </div>
-            <div className="home-about-11">
-              <div className="home-container06">
-                <svg viewBox="0 0 1024 1024" className="home-icon16">
+              <div className="home-container5">
+                <svg viewBox="0 0 1024 1024" className="home-icon14">
                   <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
                 </svg>
                 <span className="home-text12 Card-Text">
+                  Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+                </span>
+              </div>
+            </div>
+            <div className="home-about-11">
+              <div className="home-container6">
+                <svg viewBox="0 0 1024 1024" className="home-icon16">
+                  <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
+                </svg>
+                <span className="home-text13 Card-Text">
                   <span>
                     Lorem ipsum dolor sit amet aulla quis sem at nibh elementum
                   </span>
@@ -180,19 +179,19 @@ const Home = (props) => {
                   </span>
                 </span>
               </div>
-              <div className="home-container07">
+              <div className="home-container7">
                 <svg viewBox="0 0 1024 1024" className="home-icon18">
                   <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
                 </svg>
-                <span className="home-text16 Card-Text">
+                <span className="home-text17 Card-Text">
                   Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
                 </span>
               </div>
-              <div className="home-container08">
+              <div className="home-container8">
                 <svg viewBox="0 0 1024 1024" className="home-icon20">
                   <path d="M170 512q0-140 101-241t241-101 241 101 101 241-101 241-241 101-241-101-101-241z"></path>
                 </svg>
-                <span className="home-text17 Card-Text">
+                <span className="home-text18 Card-Text">
                   Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
                 </span>
               </div>
@@ -204,8 +203,8 @@ const Home = (props) => {
       <div className="home-section-separator2"></div>
       <div className="home-clients">
         <div className="home-heading-container2">
-          <h1 className="home-text18 Section-Heading">Clients</h1>
-          <span className="home-text19 Section-Text">
+          <h1 className="home-text19 Section-Heading">Clients</h1>
+          <span className="home-text20 Section-Text">
             Here we will put your clients&apos; or partners&apos; logos
           </span>
         </div>
@@ -217,96 +216,10 @@ const Home = (props) => {
           <img alt="image" src="/default-img.svg" className="home-logo4" />
         </div>
       </div>
-      <div className="home-pricing">
-        <div className="home-heading-container3">
-          <h1 className="home-text20 Section-Heading">Ask for a quote</h1>
-          <span className="home-text21 Section-Text">
-            Lorme ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-            odio. Praesent libero.
-          </span>
-        </div>
-        <div className="home-pricing-card-container">
-          <div className="home-card3">
-            <div className="home-card-heading">
-              <span className="home-type Anchor">Minimal</span>
-              <span className="Section-Heading">Basic</span>
-            </div>
-            <div className="home-card-content">
-              <div className="home-feature">
-                <span className="Card-Text">Feature one</span>
-                <span className="home-limit Card-Text">TBD</span>
-              </div>
-              <div className="home-feature1">
-                <span className="Card-Text">Feature two</span>
-                <span className="home-limit1 Card-Text">TBD</span>
-              </div>
-              <div className="home-feature2">
-                <span className="Card-Text">Feature three</span>
-                <span className="home-limit2 Card-Text">UNLIMITED</span>
-              </div>
-              <div className="home-feature3">
-                <span className="Card-Text">Feature four</span>
-                <span className="home-limit3 Card-Text">UNLIMITED</span>
-              </div>
-              <button className="home-choose button Anchor">CHOOSE</button>
-            </div>
-          </div>
-          <div className="home-card4">
-            <div className="home-card-heading1">
-              <span className="home-type1 Anchor">medium</span>
-              <span className="Section-Heading">Complex</span>
-            </div>
-            <div className="home-card-content1">
-              <div className="home-container09">
-                <span className="Card-Text">Feature one</span>
-                <span className="home-text23 Card-Text">TBD</span>
-              </div>
-              <div className="home-container10">
-                <span className="Card-Text">Feature two</span>
-                <span className="home-text25 Card-Text">TBD</span>
-              </div>
-              <div className="home-container11">
-                <span className="Card-Text">Feature three</span>
-                <span className="home-text27 Card-Text">UNLIMITED</span>
-              </div>
-              <div className="home-container12">
-                <span className="Card-Text">Feature four</span>
-                <span className="home-text29 Card-Text">UNLIMITED</span>
-              </div>
-              <button className="home-button1 Anchor button">CHOOSE</button>
-            </div>
-          </div>
-          <div className="home-card5">
-            <div className="home-card-heading2">
-              <span className="home-type2 Anchor">Premium</span>
-              <span className="Section-Heading">Professional</span>
-            </div>
-            <div className="home-card-content2">
-              <div className="home-container13">
-                <span className="Card-Text">Feature one</span>
-                <span className="home-text31 Card-Text">TBD</span>
-              </div>
-              <div className="home-container14">
-                <span className="Card-Text">Feature two</span>
-                <span className="home-text33 Card-Text">TBD</span>
-              </div>
-              <div className="home-container15">
-                <span className="Card-Text">Feature three</span>
-                <span className="home-text35 Card-Text">UNLIMITED</span>
-              </div>
-              <div className="home-container16">
-                <span className="Card-Text">Feature four</span>
-                <span className="home-text37 Card-Text">UNLIMITED</span>
-              </div>
-              <button className="home-button2 Anchor button">CHOOSE</button>
-            </div>
-          </div>
-        </div>
-      </div>
       <div className="home-section-separator3"></div>
       <div className="home-section-separator4"></div>
       <div className="home-faqs">
-        <h2 className="home-text38 Section-Heading">
+        <h2 className="home-text21 Section-Heading">
           Check the most common questions
         </h2>
         <div className="home-content-container4">
@@ -377,28 +290,6 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-section-separator5"></div>
-      <div className="home-subscribe">
-        <img alt="image" src="/default-img.svg" className="home-image1" />
-        <div className="home-container17">
-          <div className="home-heading-container4">
-            <h1 className="home-text39 Section-Heading">
-              Get our guide to crafting digital products
-            </h1>
-            <span className="Section-Text home-text40">
-              We will send you our monthly freebies on your email. We will not
-              share your email address or use it for promotional goals.
-            </span>
-          </div>
-          <input
-            type="text"
-            required="true"
-            placeholder="E-mail"
-            className="home-textinput Section-Text input"
-          />
-          <button className="home-button3 Anchor button">SEND</button>
-        </div>
-      </div>
-      <div className="home-section-separator6"></div>
       <div className="home-footer-container">
         <div className="home-footer">
           <div className="home-social-links">
