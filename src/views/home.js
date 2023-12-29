@@ -48,9 +48,7 @@ const Home = (props) => {
       <div className="home-container02">
         <div className="home-hero">
           <div className="home-hero-text-container">
-            <h1 className="home-heading2 Section-Heading">
-              I help startups deliver the right message to their customers
-            </h1>
+            <h1 className="home-heading2">Test Title</h1>
             <span className="home-text Section-Text">
               <span>
                 c. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed

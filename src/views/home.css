@@ -144,7 +144,7 @@
   flex-direction: column;
 }
 .home-heading2 {
-  color: #040404;
+  color: rgb(4, 4, 4);
   margin-bottom: var(--dl-space-space-tripleunit);
 }
 .home-text {
