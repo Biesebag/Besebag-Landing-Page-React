@@ -331,11 +331,31 @@ const Home = (props) => {
           </span>
         </div>
         <div className="home-logo-container">
-          <img alt="image" src="/default-img.svg" className="home-logo" />
-          <img alt="image" src="/default-img.svg" className="home-logo1" />
-          <img alt="image" src="/default-img.svg" className="home-logo2" />
-          <img alt="image" src="/default-img.svg" className="home-logo3" />
-          <img alt="image" src="/default-img.svg" className="home-logo4" />
+          <img
+            alt="image"
+            src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+            className="home-logo"
+          />
+          <img
+            alt="image"
+            src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+            className="home-logo1"
+          />
+          <img
+            alt="image"
+            src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+            className="home-logo2"
+          />
+          <img
+            alt="image"
+            src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+            className="home-logo3"
+          />
+          <img
+            alt="image"
+            src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+            className="home-logo4"
+          />
         </div>
       </div>
       <div className="home-section-separator3"></div>
